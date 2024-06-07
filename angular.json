@@ -25,9 +25,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "/Users/samuel/Documents/Trabajo/Prueba_Gerencia-Mejoramiento-Originacion-Cobranza/Segunda_pregunta/cockteles/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "/Users/samuel/Documents/Trabajo/Prueba_Gerencia-Mejoramiento-Originacion-Cobranza/Segunda_pregunta/cockteles/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -87,12 +90,18 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "/Users/samuel/Documents/Trabajo/Prueba_Gerencia-Mejoramiento-Originacion-Cobranza/Segunda_pregunta/cockteles/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "/Users/samuel/Documents/Trabajo/Prueba_Gerencia-Mejoramiento-Originacion-Cobranza/Segunda_pregunta/cockteles/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+            ]
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "20e92c1a-a068-4cdb-8050-78fbeef89888"
   }
 }
